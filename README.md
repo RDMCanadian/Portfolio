@@ -14,3 +14,6 @@ Throughout my journey, I've been picking up a few languages, including Python, L
 
 Contact Information:
 Would you like to talk more about my growth journey? Please email me at joeyrees926@gmail.com. Or contact me on Discord at 'rdmcanadian'; I'm constantly wanting to create new connections and have more opportunities!
+
+Inform Me:
+If there is any feedback on my work or my GitHub, please let me know at my discord or email. It means a lot to someone like me who is starting up and trying to get better. Thanks in advance!
