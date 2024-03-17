@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Sawarabi+Gothic&display=swap');
+
+body {
+  font-family: Sawarabi Gothic;
+  margin: 0; /* Remove default margin */
+  height: 100vh; /* Make body height equal to viewport height */
+  display: flex; /* Use flexbox for centering */
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+}
+
+.speedTextContainer {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;    
+}
+
+.speedtext {
+  color: white;
+  font-size: 60px;
+  z-index: -2;
+  font-family: Sawarabi Gothic;
+  text-shadow: 2px 2px 0px #000000; /* Text outline */
+  position: absolute;
+  top: -40px;
+}
+.circle {
+  border-radius: 5%;
+  width: 230px;
+  height: 100px;
+  z-index: 0;
+  background-color: rgb(39, 37, 37);
+  border: .25vw solid rgb(48, 38, 38);
+  position: absolute;
+  top: 750px;
+  left: 45px;
+}
+
+ .circle2 {
+  border-radius: 5%;
+  width: 230px;
+  height: 100px;
+  z-index: -1;
+  background-color: rgb(20 21 23);
+  border: .25vw solid rgb(36 39 43);
+  position: absolute;
+  top: 15px;
+  left: 150px;
+}
+
+.speedlimit {
+  color: white;
+  font-size: 30px;
+  z-index: -2;
+  font-family: Sawarabi Gothic;
+  text-shadow: 2px 2px 0px #000000; /* Text outline */
+  position: absolute;
+  left: 90px;
+  top: -36px;
+}
+
+
+.speedlimittext {
+  color: white;
+  font-size: 30px;
+  z-index: -2;
+  font-family: Sawarabi Gothic;
+  text-shadow: 2px 2px 0px #000000; /* Text outline */
+  position: absolute;
+  top: -8px;
+  left: 5px;
+}
+
+.speedtexttype {
+  color: white;
+  font-size: 20px;
+  z-index: -2;
+  font-family: Sawarabi Gothic;
+  text-shadow: 2px 2px 0px #000000; /* Text outline */
+  position: relative;
+  top: 0px;
+  left: 85px;
+}

@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Sawarabi+Gothic&display=swap');
+
+.HungerLevel {
+  color: rgb(226, 119, 19);
+  font-size: 25px;
+  position: absolute;
+  top: 814px;
+  left: 40px;
+}
+
+.ThirstLevel {
+  color: rgb(97, 0, 253);
+  font-size: 25px;
+  position: absolute;
+  top: 840px;
+  left: 40px;
+}
+
