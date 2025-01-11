@@ -1,19 +1,25 @@
-Welcome, please take a look at my work and read the remainder of this file, and bear in mind that I am a starting out and rather new 'Developer', even saying that right now feels like a lie, but I would like to sharpen my skills and earn the title of 'Developer' Thank you for looking!
+Welcome
+Thank you for taking the time to explore my work. As I’m still early in my development journey, I want to share my experiences and growth as I sharpen my skills and earn the title of "Developer." It feels surreal to say that right now, but I’m dedicated to getting there, and your interest is greatly appreciated!
 
-About Me:
-Having played FiveM since I was around 10, and games since I was younger, I've always wanted to learn how to make games and how people were able to make things happen in games, but now that I've started my journey, I see how people have done it and I'd like to continue and become one of those people that I've looked up to and admired. I know that this will take a long time, and I fully understand and grasp that, but I have to start somewhere, so why not FiveM?
+About Me
+I’ve been passionate about games for as long as I can remember, having played FiveM since I was around 10 years old. My fascination with how games work and how developers make things happen in them has always been a driving force. Now that I’ve started my development journey, I’ve realized how much goes into it, and I aspire to be one of those developers I’ve always looked up to. I understand that the road will take time, but I’m excited to begin—and FiveM is where it all starts for me.
 
-Portfolio Overview:
-Within my Github repository, you should see some of my work. Please keep in mind that this is what I have worked on since the beginning of my FiveM Development Journey, and I am always looking to make my work better and more clear!
+As I continue to grow, I’m working on making my projects more professional, developing my skills, and gradually transitioning to more complex development work.
 
-Always Learning:
-There is always time and room to learn more, as in todays day and age having skills in development is one of the biggest things you can have!
+Portfolio Overview
+Within my GitHub repository, you’ll find some of my work so far. Keep in mind that these are projects from the start of my FiveM development journey, and I’m continuously working to improve and make my code clearer and more efficient. I’m always striving to better my skills and my output.
 
-Technical Stuff:
-Throughout my journey, I've been picking up a few languages, including Python, Lua, and JavaScript, but I'm always looking to learn more and sharpen my skills.
+You can also explore my website to see a wider view of my work and how I’m progressing as I expand my skill set and take on more challenging projects.
 
-Contact Information:
-Would you like to talk more about my growth journey? Please email me at reesgamestudio@gmail.com. Or contact me on Discord at 'rdmcanadian'; I'm constantly wanting to create new connections and have more opportunities!
+Always Learning
+In today’s fast-paced world, development skills are more important than ever. There is always something new to learn, and I’m dedicated to constantly improving and staying on top of new trends and tools in development.
 
-Inform Me:
-If there is any feedback on my work or my GitHub, please let me know at my discord or email. It means a lot to someone like me who is starting up and trying to get better. Thanks in advance!
+Technical Stuff
+Throughout my journey, I’ve picked up several languages including Python, Lua, and JavaScript, but I’m always open to learning more. I want to continue building my skills and expanding my knowledge so I can create better projects and contribute more to the community.
+
+Contact Information
+Want to talk about my journey or discuss any opportunities? Feel free to reach out via email at reesgamestudio@gmail.com. I’m always looking to make new connections and explore more opportunities for growth!
+
+Inform Me
+If you have any feedback on my work or GitHub, please don’t hesitate to reach out. Your thoughts mean a lot to me, as I’m just starting out and working hard to get better. Thank you in advance for your support!
+
