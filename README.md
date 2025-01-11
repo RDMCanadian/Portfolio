@@ -28,4 +28,4 @@ Want to talk about my journey or discuss any opportunities? Feel free to reach o
 
 ## Inform Me
 
-If you have any feedback on my work or GitHub, please don’t hesitate to reach out. Your thoughts mean a lot to me, as I’m just starting out and working hard to get better. Thank you in advance for your support!
+If you have any feedback on my work or GitHub, please don’t hesitate to reach out. Your thoughts mean a lot to me, as I’m just branching out, and working hard to get better. Thank you in advance for your support!
