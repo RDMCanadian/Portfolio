@@ -24,7 +24,7 @@ Throughout my journey, I’ve picked up several languages including **Python**, 
 
 ## Contact Information
 
-Want to talk about my journey or discuss any opportunities? Feel free to reach out via email at **reesgamestudio@gmail.com**. I’m always looking to make new connections and explore more opportunities for growth!
+Want to talk about my journey or discuss any opportunities? Feel free to reach out via email at **reesdevelopmentstudio@gmail.com**. I’m always looking to make new connections and explore more opportunities for growth!
 
 ## Inform Me
 
